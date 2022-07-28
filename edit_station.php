@@ -1,5 +1,5 @@
 <html>
-<body style=" background-image: url(adminlogin.jpeg);
+<body style=" background-image: linear-gradient(160deg,rgb(230, 168, 76),rgb(235, 235, 100), rgb(84, 172, 239));
     height: 100%; 
     background-position: center;
     background-repeat: no-repeat;
