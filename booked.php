@@ -1,10 +1,19 @@
 <html>
-<body style=" background-image: url(adminlogin.jpeg);
+<head>
+<style>
+body {
     height: 100%; 
+    background-image: linear-gradient(140deg,rgb(230, 168, 76),rgb(235, 235, 100), rgb(84, 172, 239));
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;">
+    background-size: cover;
+    text-align:center;
+}
+</style>
+</head>
 
+
+<body>
 <?php
 require "db.php";
 
@@ -28,6 +37,7 @@ $conn->close();
 
 </body>
 </html>
+
 
 
 
