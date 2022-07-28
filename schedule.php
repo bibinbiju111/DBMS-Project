@@ -1,7 +1,7 @@
 <html>
-<body style=" background-image: url(adminlogin.jpeg);
+<body style="
     height: 100%; 
-    background-position: center;
+    background-color: thistle;
     background-repeat: no-repeat;
     background-size: cover;">
 
