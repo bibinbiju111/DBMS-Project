@@ -3,14 +3,13 @@ Railway Management System website built as course project in DBMS subject,B.Tech
 
 To install and run on your pc:-
 
-1)Sign up and sign in in your sql database.
+1)Open xampp and start apache and mysql.
 
-2)Run railway.sql and save databse. 
+2)import the database as railway.sql.zip as mention in phpmyadmin. 
 
 3)Add your sql password and user name in indicated portion of db.php file.
 
-4)Make sure you have active sql database connection. To do so you can use local server solution software like xampp which is open source and easy to use , or deploy 
-site on a web server connected to sql.
+4)Make sure you have active sql database connection. 
 
 For deploying on local host using xampp:-
 
@@ -22,4 +21,4 @@ c)Open index.htm in your browser.
 
 5)Finally run index.htm and enjoy!
 
-Feel free to ask queries if facing any issues in installation. 
+
