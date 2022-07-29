@@ -448,3 +448,6 @@
 	table {
 		font-size: 14px;
 	}
+	.admin-login a {
+		color: #fff;
+	}
