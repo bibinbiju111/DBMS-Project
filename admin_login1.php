@@ -30,7 +30,7 @@
             </ul>
         </nav>
     </header>
-    <div class="content-area">
+    <div class="content-area admin-login">
     <div class="align center">
 <?php 
 session_start();
