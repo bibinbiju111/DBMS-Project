@@ -451,3 +451,7 @@
 	.admin-login a {
 		color: #fff;
 	}
+	.copyright-wrap p {
+		font-size: 12px;
+		margin-bottom: 10px;
+	}
