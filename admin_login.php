@@ -5,13 +5,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>RAILWAY SYSTEM</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="http://localhost/railway/style.css">
     <link href='https://cdn.jsdelivr.net/npm/boxicons@2.0.5/css/boxicons.min.css' rel='stylesheet'>
 </head>
 <body>
     <header class="header">
-        <a href="index.htm">
-            <img src="images/logo.png" alt="Logo" class="logo">
+        <a href="http://localhost/railway/index.htm">
+            <img src="http://localhost/railway/images/logo.png" alt="Logo" class="logo">
         </a>
         <nav class="menu">
             <ul>
