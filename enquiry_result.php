@@ -16,16 +16,16 @@
         <nav class="menu">
             <ul>
                 <li>
-                    <a href="new_user_form.html">New User</a>
+                    <a href="http://localhost/railway/new_user_form.html">New User</a>
                 </li>
                 <li>
-                    <a href="enquiry.php" >Enquiry and Ticket Booking </a>
+                    <a href="http://localhost/railway/enquiry.php" >Enquiry and Ticket Booking </a>
                 </li>
                 <li>
-                    <a href="user_login.html">Ticket History OR Cancellation</a>
+                    <a href="http://localhost/railway/user_login.htm">Ticket History OR Cancellation</a>
                 </li>
                 <li>
-                    <a href="admin_login.php">Admin Login</a>
+                    <a href="http://localhost/railway/admin_login.php">Admin Login</a>
                 </li>
             </ul>
         </nav>
