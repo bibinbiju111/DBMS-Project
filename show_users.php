@@ -1,7 +1,7 @@
 <html>
 <body style="
     height: 100%; 
-    background-color: darkgrey;
+    background-color: #a5d2e9;
     background-repeat: no-repeat;
     background-size: cover;">
 
